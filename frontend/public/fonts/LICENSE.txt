@@ -1,0 +1,8 @@
+Inter (c) The Inter Project Authors - https://github.com/rsms/inter
+Anton (c) The Anton Project Authors - https://github.com/googlefonts/AntonFont
+
+Both fonts are licensed under the SIL Open Font License, Version 1.1:
+https://openfontlicense.org/open-font-license-official-text/
+
+Inter is in this folder. Anton comes from the @fontsource/anton package and is
+bundled with the site, so the app serves both fonts itself.
